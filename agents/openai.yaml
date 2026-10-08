@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lean Precision"
+  short_description: "Clear, concise answers and effort that pays off"
+  default_prompt: "Use $lean-precision for concise, grammatical answers and simple engineering; spend extra effort only when it improves the outcome."
